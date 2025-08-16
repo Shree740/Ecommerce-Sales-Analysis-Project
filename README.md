@@ -1,15 +1,15 @@
 # Ecommerce-Sales-Analysis-Project
 An interactive dashboard to track sales, profit, orders, and customer behavior across categories, states, and segments.
 
-Key Features
+Key Features :
 
-Sales, Profit, Orders & Quantity KPIs with YoY growth
+1.Sales, Profit, Orders & Quantity KPIs with YoY growth
+ 
+2.Category-wise sales & profit analysis
 
-Category-wise sales & profit analysis
+3.Top-performing subcategories & states
 
-Top-performing subcategories & states
-
-Interactive filters (Year, Region, Segment)
+4.Interactive filters (Year, Region, Segment)
 
 Tools Used
 
